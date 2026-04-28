@@ -1,4 +1,4 @@
-name: 🚀 编译 openwrt(Build openwrt)
+name: 🚀 编译 openwrt(未验证)
 
 on:
   workflow_dispatch:
